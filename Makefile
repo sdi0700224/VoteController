@@ -1,6 +1,6 @@
 # Compiler
 CC := g++
-# Compiler flags: Wall (enable warnings), Werror (treat warnings as errors), g (include debugging symbols)
+# Compiler flags
 CPPFLAGS := -Wall -Werror -g
 # Directories
 SRC_DIR := src
